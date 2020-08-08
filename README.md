@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there I'am Paijo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**plengeh69/plengeh69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo semua aku berasal dari Jawa tengah Tengah Kota Sukoharjo, sekarang aku tertarik pada bahasa pemrograman javascript dan python.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Terimakasih 😉
+
+# 🎓 Projects
+
+- [**Website**](https://plengeh69.github.io/paijo.github.io/)
+- [**Instagram**](https://instagram.arjn.id)
+
+# 👍 Hobby
+
+- **Coding 💻**
+- **Belajar Bahasa Pemrograman Yang Belum Saya Kuasai.**
