@@ -6,8 +6,6 @@ Halo semua aku berasal dari Jawa tengah Tengah Kota Sukoharjo, sekarang aku tert
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 
-Terimakasih 😉
-
 # 🎓 Projects
 
 - [**Website**](https://plengeh69.github.io/paijo.github.io/)
@@ -17,3 +15,5 @@ Terimakasih 😉
 
 - **Coding 💻**
 - **Belajar Bahasa Pemrograman Yang Belum Saya Kuasai.**
+
+-**Terimakasih🙂**
