@@ -1,7 +1,5 @@
 # Hello there I'am Paijo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### Hi there 👋
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plengeh69&theme=onedark&count_private=true&include_all_commits=true)
 ![More GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=plengeh69&layout=compact&theme=onedark
 
