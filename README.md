@@ -1,5 +1,10 @@
 # Hello there I'am Paijo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+### Hi there 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plengeh69&theme=onedark&count_private=true&include_all_commits=true)
+![More GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=plengeh69&layout=compact&theme=onedark
+
 Halo semua aku berasal dari Jawa tengah Tengah Kota Sukoharjo, sekarang aku tertarik pada bahasa pemrograman javascript dan python.
 
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
@@ -8,7 +13,7 @@ Halo semua aku berasal dari Jawa tengah Tengah Kota Sukoharjo, sekarang aku tert
 
 # 🎓 Projects
 
-- [**Website**](https://plengeh69.github.io/paijo.github.io/)
+- [**Website**](https://plengeh69.github.io)
 - [**Instagram**](https://instagram.arjn.id)
 
 # 👍 Hobby
