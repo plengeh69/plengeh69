@@ -1,4 +1,4 @@
-# Hello there I'am Paijo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello there I'am Arjun <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plengeh69&theme=onedark&count_private=true&include_all_commits=true)
 
@@ -11,7 +11,7 @@ Halo semua aku berasal dari Jawa tengah Tengah Kota Sukoharjo, sekarang aku tert
 # 🎓 Projects
 
 - [**Website**](https://plengeh69.github.io)
-- [**Instagram**](https://instagram.arjn.id)
+- [**Instagram**](https://www.instagram.com/arjn.me)
 
 # 👍 Hobby
 
